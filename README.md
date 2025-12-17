@@ -17,6 +17,7 @@ I have a formal background in Informatica e Multimedia, with a solid foundation 
 * Python
 * JavaScript
 * PHP
+* Java
   
 **Frontend**
 * HTML
