@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I have a formal background in Information Technology and Multimedia, with a solid foundation in software development and digital technologies. I focus on building practical, well-structured solutions, with particular interest in frontend development, automation, and clean code practices.
+I have a formal background in Informatica e Multimedia, with a solid foundation in software development and digital technologies. I focus on building practical, well-structured solutions, with particular interest in frontend development, automation, and clean code practices.
 
 * 🎯 Current focus: growing as a developer and building solid projects
 * 📚 Continuously studying programming and system fundamentals
@@ -16,6 +16,11 @@ I have a formal background in Information Technology and Multimedia, with a soli
 
 * Python
 * JavaScript
+* PHP
+  
+  **Frontend**
+- HTML
+- CSS
 
 **Backend**
 
