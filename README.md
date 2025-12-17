@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Winter
 
-<!--
-**vampiricwinter/vampiricwinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I have a formal background in Information Technology and Multimedia, with a solid foundation in software development and digital technologies. I focus on building practical, well-structured solutions, with particular interest in frontend development, automation, and clean code practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎯 Current focus: growing as a developer and building solid projects
+* 📚 Continuously studying programming and system fundamentals
+* 💡 Interests: frontend development, APIs and performance
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Languages**
+
+* Python
+* JavaScript
+
+**Backend**
+
+* REST APIs
+* Backend architecture concepts
+
+**Databases**
+
+* SQL
+
+**Tools**
+
+* Git & GitHub
+
+---
+
+## 📌 Featured Projects
+
+
+---
+
+## 📫 Contact
+
+* GitHub: [https://github.com/vampiricwinter](https://github.com/vampiricwinter)
+* LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* Email: [vampiricwinter@outlook.com](vampiricwinter@outlook.com)
+
+---
+
+## 🚀 Goals
+
+* Build a solid foundation in software development
+* Contribute to open source projects
+* Grow professionally in the tech industry
+
+
