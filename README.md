@@ -18,9 +18,9 @@ I have a formal background in Informatica e Multimedia, with a solid foundation 
 * JavaScript
 * PHP
   
-  **Frontend**
-- HTML
-- CSS
+**Frontend**
+* HTML
+* CSS
 
 **Backend**
 
