@@ -46,7 +46,7 @@ I have a formal background in Informatica e Multimedia, with a solid foundation 
 ## 📫 Contact
 
 * GitHub: [https://github.com/vampiricwinter](https://github.com/vampiricwinter)
-* LinkedIn: [https://www.linkedin.com/in/hebert-matthies-812534394/](https://www.linkedin.com/in/hebert-matthies-812534394/)
+* LinkedIn: [www.linkedin.com/in/hebertmatthies](www.linkedin.com/in/hebertmatthies)
 * Email: [vampiricwinter@outlook.com](vampiricwinter@outlook.com)
 
 ---
