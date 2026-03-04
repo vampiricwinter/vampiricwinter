@@ -23,11 +23,6 @@ I have a formal background in Informatica e Multimedia, with a solid foundation 
 * HTML
 * CSS
 
-**Backend**
-
-* REST APIs
-* Backend architecture concepts
-
 **Databases**
 
 * SQL
@@ -35,14 +30,7 @@ I have a formal background in Informatica e Multimedia, with a solid foundation 
 **Tools**
 
 * Git & GitHub
-
 ---
-
-## 📌 Featured Projects
-
-
----
-
 ## 📫 Contact
 
 * GitHub: [https://github.com/vampiricwinter](https://github.com/vampiricwinter)
