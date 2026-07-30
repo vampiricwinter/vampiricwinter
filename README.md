@@ -33,7 +33,6 @@ I have a formal background in Informatica e Multimedia, with a solid foundation 
 ---
 ## 📫 Contact
 
-* GitHub: [https://github.com/vampiricwinter](https://github.com/vampiricwinter)
 * LinkedIn: [www.linkedin.com/in/hebertmatthies](www.linkedin.com/in/hebertmatthies)
 * Email: [vampiricwinter@outlook.com](vampiricwinter@outlook.com)
 
